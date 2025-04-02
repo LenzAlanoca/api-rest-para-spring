@@ -12,9 +12,12 @@ RECOMENDACIONES
 	</properties>
 
 "
-Este proyecto es gestion de estudiantes con todos lso microservicios basicos como ser put,post,get,delete, usando DTOs para la encapsulacion de datos de la entidades, por otro lado se utilizo postgress como gestor de base de datos
-y las dependendencias necesarias estan agregadas en el pom.xml
+Este proyecto es gestion de estudiantes con todos lso microservicios basicos como ser put,post,get,delete, usando DTOs para la encapsulacion de datos de la entidades, por otro lado se utilizo postgress como gestor de base de datosy las dependendencias necesarias estan agregadas en el pom.xml
+
 debes crear una bdd llamada "estudiandb" pero eso es configurable si modificas el .env
+
 -No es necesario crear las tablas si no existe la tabla se creara automaticamente al momento de encener el dashboard
+
 -cualquier consulta del proyecto comunicate al correo >>>>> : laalanoca3@umsa.bo 
+
 GRACIAS¡¡¡¡
