@@ -1,8 +1,11 @@
 Este es un proyeto sobre APIREST  usando spring boot inicializado desde visual estudio y un modulo de mvn para evitar su instalacion en local
 RECOMENDACIONES
 -cambiar los datos en el archivo ".env" para su funcionamiento ya que estos dependen de tus credenciales a postgres
+
 -verificar si tus puertos estan ocpupados para cambiar de puertos edita el archivo "application.properties" y cambia del puerto 8080 a uno desocupado
+
 -cambia en el archivo "pom.xml" la version de java si la tuya no es la 24 exactamente en la siguiente linea: 
+
 "
 <properties>
 		<java.version>24</java.version>
